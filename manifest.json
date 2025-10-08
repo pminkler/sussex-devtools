@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Sussex DevTools",
+  "version": "1.0.0",
+  "description": "Development tools and utilities for Sussex projects",
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "clipboardWrite"
+  ]
+}
